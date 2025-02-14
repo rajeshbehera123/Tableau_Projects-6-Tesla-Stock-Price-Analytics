@@ -1,4 +1,4 @@
-**Tableau_Projects: Tesla Stock Price Analytics**
+**Tableau_Projects-6: Tesla Stock Price Analytics**
 Key Features for Tesla Stock Price Dashboard in Tableau
 1. Real-Time Daily Stock Price Updates 📈
 Automatically updates daily closing stock prices for Tesla.
